@@ -1,0 +1,1862 @@
+{
+  "status": "complete",
+  "method": "原始关键词按篇去重；df>=3且df<=80%；平滑IDF=log((1+n)/(1+df))+1；L2归一化；球面K均值；候选k=3—8，5次初始化，按余弦轮廓系数选择；随机种子42+k。",
+  "abstracts_used": false,
+  "note": "聚类名称直接取中心向量权重最高的关键词，不是人工判定的学科类别；只作探索性分析。未使用摘要分词或外部大模型。",
+  "eligible_papers": 594,
+  "clustered_papers": 282,
+  "excluded_no_retained_keyword": 312,
+  "vocabulary_size": 92,
+  "chosen_k": 8,
+  "silhouette_cosine": 0.11480460437938006,
+  "trials": [
+    {
+      "k": 3,
+      "silhouette_cosine": 0.07654031697060075,
+      "sizes": [
+        240,
+        23,
+        19
+      ],
+      "iterations": 4
+    },
+    {
+      "k": 4,
+      "silhouette_cosine": 0.052473506423845157,
+      "sizes": [
+        196,
+        24,
+        21,
+        41
+      ],
+      "iterations": 11
+    },
+    {
+      "k": 5,
+      "silhouette_cosine": 0.0910982741892935,
+      "sizes": [
+        210,
+        24,
+        25,
+        3,
+        20
+      ],
+      "iterations": 8
+    },
+    {
+      "k": 6,
+      "silhouette_cosine": 0.08394022340467985,
+      "sizes": [
+        179,
+        33,
+        24,
+        24,
+        6,
+        16
+      ],
+      "iterations": 9
+    },
+    {
+      "k": 7,
+      "silhouette_cosine": 0.0907378165889642,
+      "sizes": [
+        180,
+        25,
+        19,
+        22,
+        10,
+        16,
+        10
+      ],
+      "iterations": 7
+    },
+    {
+      "k": 8,
+      "silhouette_cosine": 0.11480460437938006,
+      "sizes": [
+        177,
+        15,
+        23,
+        23,
+        6,
+        10,
+        7,
+        21
+      ],
+      "iterations": 7
+    }
+  ],
+  "groups": [
+    {
+      "group": 1,
+      "label": "数字化转型 / 共同富裕 / 企业创新",
+      "keywords": [
+        {
+          "term": "数字化转型",
+          "weight": 0.3627215345852188
+        },
+        {
+          "term": "共同富裕",
+          "weight": 0.2586639598724622
+        },
+        {
+          "term": "企业创新",
+          "weight": 0.22854028784391267
+        },
+        {
+          "term": "全要素生产率",
+          "weight": 0.2248982726452074
+        },
+        {
+          "term": "社会网络",
+          "weight": 0.2128062899584765
+        },
+        {
+          "term": "融资约束",
+          "weight": 0.19659783939991418
+        },
+        {
+          "term": "财政透明度",
+          "weight": 0.1773385749653971
+        },
+        {
+          "term": "反垄断法",
+          "weight": 0.1759200129265265
+        }
+      ],
+      "documents": 177,
+      "year_counts": {
+        "2017": 15,
+        "2018": 17,
+        "2019": 13,
+        "2020": 19,
+        "2021": 19,
+        "2022": 22,
+        "2023": 20,
+        "2024": 23,
+        "2025": 13,
+        "2026": 16
+      },
+      "representative_papers": [
+        {
+          "title": "供应链网络位置、数字化转型与企业全要素生产率",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.03.001",
+          "document_id": "SCJB202403001"
+        },
+        {
+          "title": "数字化转型促进中国企业节能减排了吗？",
+          "year": 2022,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.05.002",
+          "document_id": "SCJB202205002"
+        },
+        {
+          "title": "数字化转型与企业集团权力配置：变革的力量",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.02.007",
+          "document_id": "SCJB202402007"
+        },
+        {
+          "title": "“薪中有数”：企业数字化转型对人力资本产权激励的赋能效应",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.04.003",
+          "document_id": "SCJB202404003"
+        },
+        {
+          "title": "上下游数字化转型实现了价值共创吗？——基于数字溢出的微观证据",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.05.007",
+          "document_id": "SCJB202405007"
+        }
+      ]
+    },
+    {
+      "group": 2,
+      "label": "新质生产力 / 双重差分 / 人工智能",
+      "keywords": [
+        {
+          "term": "新质生产力",
+          "weight": 0.7239584770593966
+        },
+        {
+          "term": "双重差分",
+          "weight": 0.4339311251148238
+        },
+        {
+          "term": "人工智能",
+          "weight": 0.3921452617461326
+        },
+        {
+          "term": "产业政策",
+          "weight": 0.3259252237348524
+        },
+        {
+          "term": "营商环境",
+          "weight": 0.08331928299773554
+        },
+        {
+          "term": "生产关系",
+          "weight": 0.07656416160012916
+        },
+        {
+          "term": "绿色金融",
+          "weight": 0.07500434932484329
+        },
+        {
+          "term": "反垄断法",
+          "weight": 0.0677224635629931
+        }
+      ],
+      "documents": 15,
+      "year_counts": {
+        "2019": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1,
+        "2024": 3,
+        "2025": 6,
+        "2026": 1
+      },
+      "representative_papers": [
+        {
+          "title": "双创示范基地建设对地区新质生产力的影响——来自中国城市的经验证据",
+          "year": 2026,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.05.002",
+          "document_id": "SCJB202605002"
+        },
+        {
+          "title": "论资本作为新质生产力要素的理论基础与现实意义",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.06.001",
+          "document_id": "SCJB202406001"
+        },
+        {
+          "title": "马克思主义政治经济学视阈下劳动力再生产与健康保障",
+          "year": 2025,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.01.008",
+          "document_id": "SCJB202501008"
+        },
+        {
+          "title": "新质生产力发展视阈下的会计盈余披露改进研究——基于CAS盈余与Non-CAS盈余功用的实证检验",
+          "year": 2025,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.02.004",
+          "document_id": "SCJB202502004"
+        },
+        {
+          "title": "新质生产力背景下公共数据治理的法治检视与路径跃升",
+          "year": 2025,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.06.009",
+          "document_id": "SCJB202506009"
+        }
+      ]
+    },
+    {
+      "group": 3,
+      "label": "数字经济 / 数据要素 / 高质量发展",
+      "keywords": [
+        {
+          "term": "数字经济",
+          "weight": 0.9790440824537118
+        },
+        {
+          "term": "数据要素",
+          "weight": 0.13261448827634978
+        },
+        {
+          "term": "高质量发展",
+          "weight": 0.09790508187648563
+        },
+        {
+          "term": "数字化转型",
+          "weight": 0.06533445172112531
+        },
+        {
+          "term": "生产关系",
+          "weight": 0.044756988477523456
+        },
+        {
+          "term": "人工智能",
+          "weight": 0.04368842689769853
+        },
+        {
+          "term": "区域协调发展",
+          "weight": 0.03739064432006154
+        },
+        {
+          "term": "相对贫困",
+          "weight": 0.03677511944517452
+        }
+      ],
+      "documents": 23,
+      "year_counts": {
+        "2020": 1,
+        "2021": 2,
+        "2022": 5,
+        "2023": 4,
+        "2024": 5,
+        "2025": 3,
+        "2026": 3
+      },
+      "representative_papers": [
+        {
+          "title": "数字经济下数据共享理路的反思与再造——以数据类型化考察为视角",
+          "year": 2020,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.02.009",
+          "document_id": "SCJB202002009"
+        },
+        {
+          "title": "数字经济与区域经济增长：后发优势还是后发劣势?",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.03.002",
+          "document_id": "SCJB202103002"
+        },
+        {
+          "title": "数字时代共同市场支配地位的认定标准",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.03.009",
+          "document_id": "SCJB202103009"
+        },
+        {
+          "title": "数字服务税：理论阐释、国际实践与中国进路",
+          "year": 2022,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.03.010",
+          "document_id": "SCJB202203010"
+        },
+        {
+          "title": "数字经济下营业利润征税权分配规则改革：中国问题及其应对",
+          "year": 2022,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.06.010",
+          "document_id": "SCJB202206010"
+        }
+      ]
+    },
+    {
+      "group": 4,
+      "label": "技术创新 / 数字普惠金融 / 金融稳定",
+      "keywords": [
+        {
+          "term": "技术创新",
+          "weight": 0.7562749172745656
+        },
+        {
+          "term": "数字普惠金融",
+          "weight": 0.29826120707698695
+        },
+        {
+          "term": "金融稳定",
+          "weight": 0.264179628678777
+        },
+        {
+          "term": "经济增长",
+          "weight": 0.23689129342811088
+        },
+        {
+          "term": "产能利用率",
+          "weight": 0.23302577548788617
+        },
+        {
+          "term": "企业全要素生产率",
+          "weight": 0.21140656223830034
+        },
+        {
+          "term": "过度投资",
+          "weight": 0.18235749106604698
+        },
+        {
+          "term": "就业质量",
+          "weight": 0.15842705833607865
+        }
+      ],
+      "documents": 23,
+      "year_counts": {
+        "2017": 3,
+        "2019": 3,
+        "2020": 2,
+        "2021": 5,
+        "2022": 4,
+        "2023": 1,
+        "2024": 1,
+        "2025": 2,
+        "2026": 2
+      },
+      "representative_papers": [
+        {
+          "title": "CVC竞争强度与被投资企业技术创新绩效——基于卷入强度的中介效应分析",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.02.004",
+          "document_id": "SCJB201902005"
+        },
+        {
+          "title": "技术创新能改善初创企业的生存吗——一个理论与经验研究",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.04.005",
+          "document_id": "SCJB201904007"
+        },
+        {
+          "title": "外生冲击、融资模式选择与制造业升级——兼论经贸摩擦和新冠肺炎疫情下的金融供给侧改革",
+          "year": 2020,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.04.001",
+          "document_id": "SCJB202004001"
+        },
+        {
+          "title": "高管团队社会资本在数字技术赋能企业创新中的作用——“助推器”还是“绊脚石”？",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.04.001",
+          "document_id": "SCJB202104001"
+        },
+        {
+          "title": "风险资本投资如何助力企业关键核心技术创新",
+          "year": 2025,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.06.001",
+          "document_id": "SCJB202506001"
+        }
+      ]
+    },
+    {
+      "group": 5,
+      "label": "“一带一路” / 对外直接投资 / 高质量发展",
+      "keywords": [
+        {
+          "term": "“一带一路”",
+          "weight": 0.9811467882685783
+        },
+        {
+          "term": "对外直接投资",
+          "weight": 0.13160842622960117
+        },
+        {
+          "term": "高质量发展",
+          "weight": 0.10662188938563709
+        },
+        {
+          "term": "数字经济",
+          "weight": 0.09306973041466458
+        },
+        {
+          "term": "金融风险",
+          "weight": 0.0
+        },
+        {
+          "term": "金融资产配置",
+          "weight": 0.0
+        },
+        {
+          "term": "金融稳定",
+          "weight": 0.0
+        },
+        {
+          "term": "金融化",
+          "weight": 0.0
+        }
+      ],
+      "documents": 6,
+      "year_counts": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 2,
+        "2020": 1,
+        "2023": 1
+      },
+      "representative_papers": [
+        {
+          "title": "亚洲地区“一带一路”建设与企业投资环境分析",
+          "year": 2017,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.01.008",
+          "document_id": "SCJB201701009"
+        },
+        {
+          "title": "税收事先裁定的主体定位与范围厘清——基于实现税法确定性与促进“一带一路”倡议的功能视角",
+          "year": 2018,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2018.06.009",
+          "document_id": "SCJB201806010"
+        },
+        {
+          "title": "“一带一路”背景下我国国际多式联运责任制度的完善",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.05.004",
+          "document_id": "SCJB201905004"
+        },
+        {
+          "title": "“一带一路”倡议的农业价值链关联效应——基于Eora26跨国投入产出数据的双重差分检验",
+          "year": 2020,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.06.006",
+          "document_id": "SCJB202006007"
+        },
+        {
+          "title": "中国对外直接投资对“一带一路”沿线国家绿色全要素生产率的影响",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.06.007",
+          "document_id": "SCJB201906008"
+        }
+      ]
+    },
+    {
+      "group": 6,
+      "label": "绿色创新 / 信息披露 / 董事义务",
+      "keywords": [
+        {
+          "term": "绿色创新",
+          "weight": 0.7375488737219371
+        },
+        {
+          "term": "信息披露",
+          "weight": 0.5307743479497143
+        },
+        {
+          "term": "董事义务",
+          "weight": 0.3938610269022561
+        },
+        {
+          "term": "公司治理",
+          "weight": 0.10955537573327162
+        },
+        {
+          "term": "融资约束",
+          "weight": 0.08468389200727292
+        },
+        {
+          "term": "金融风险",
+          "weight": 0.0
+        },
+        {
+          "term": "风险",
+          "weight": 0.0
+        },
+        {
+          "term": "金融资产配置",
+          "weight": 0.0
+        }
+      ],
+      "documents": 10,
+      "year_counts": {
+        "2017": 1,
+        "2020": 2,
+        "2021": 2,
+        "2023": 1,
+        "2024": 2,
+        "2026": 2
+      },
+      "representative_papers": [
+        {
+          "title": "数据要素市场化能否促进企业绿色创新？——基于城市数据交易平台设立的准自然实验",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.03.003",
+          "document_id": "SCJB202403003"
+        },
+        {
+          "title": "绩效差距与企业绿色创新-基于“穷则思变”决策惯例的权变思考",
+          "year": 2020,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.01.002",
+          "document_id": "SCJB202001002"
+        },
+        {
+          "title": "开发区设立、区域偏向与企业绿色创新",
+          "year": 2020,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.04.004",
+          "document_id": "SCJB202004005"
+        },
+        {
+          "title": "闻警自省和趁机赶超：环保约谈对企业绿色创新的跨地域辐射效应",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.01.003",
+          "document_id": "SCJB202101003"
+        },
+        {
+          "title": "董监高责任险、企业声誉与绿色创新",
+          "year": 2023,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.02.007",
+          "document_id": "SCJB202302007"
+        }
+      ]
+    },
+    {
+      "group": 7,
+      "label": "对外直接投资 / 风险 / 产权性质",
+      "keywords": [
+        {
+          "term": "对外直接投资",
+          "weight": 0.7727663836754528
+        },
+        {
+          "term": "风险",
+          "weight": 0.5615623313086363
+        },
+        {
+          "term": "产权性质",
+          "weight": 0.15880265068060595
+        },
+        {
+          "term": "融资约束",
+          "weight": 0.1448780632924644
+        },
+        {
+          "term": "高质量发展",
+          "weight": 0.12049570392389321
+        },
+        {
+          "term": "“一带一路”",
+          "weight": 0.11748853986686504
+        },
+        {
+          "term": "数字化转型",
+          "weight": 0.11379436526317008
+        },
+        {
+          "term": "金融资产配置",
+          "weight": 0.0
+        }
+      ],
+      "documents": 7,
+      "year_counts": {
+        "2017": 2,
+        "2019": 2,
+        "2024": 1,
+        "2025": 1,
+        "2026": 1
+      },
+      "representative_papers": [
+        {
+          "title": "东道国风险与中国对外直接投资——基于“一带一路”沿线43国的考察",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.05.003",
+          "document_id": "SCJB201905003"
+        },
+        {
+          "title": "绿色导向的国际投资：绿色工厂认定与企业对外直接投资",
+          "year": 2024,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.06.003",
+          "document_id": "SCJB202406003"
+        },
+        {
+          "title": "美国政府补贴与企业绿地投资",
+          "year": 2026,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.01.007",
+          "document_id": "SCJB202601007"
+        },
+        {
+          "title": "对外直接投资、产权性质与过度负债",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.06.008",
+          "document_id": "SCJB201906009"
+        },
+        {
+          "title": "以“数”提“质”：数字化转型何以提升企业对外直接投资质量？",
+          "year": 2025,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.04.005",
+          "document_id": "SCJB202504005"
+        }
+      ]
+    },
+    {
+      "group": 8,
+      "label": "股价崩盘风险 / 准自然实验 / 混合所有制",
+      "keywords": [
+        {
+          "term": "股价崩盘风险",
+          "weight": 0.6332972010042864
+        },
+        {
+          "term": "准自然实验",
+          "weight": 0.39900496399071234
+        },
+        {
+          "term": "混合所有制",
+          "weight": 0.35562755536598656
+        },
+        {
+          "term": "盈余管理",
+          "weight": 0.29243884079496973
+        },
+        {
+          "term": "信息透明度",
+          "weight": 0.2667605467799778
+        },
+        {
+          "term": "社会关系",
+          "weight": 0.2667605467799778
+        },
+        {
+          "term": "家族企业",
+          "weight": 0.250041057200962
+        },
+        {
+          "term": "投资效率",
+          "weight": 0.15131209881213467
+        }
+      ],
+      "documents": 21,
+      "year_counts": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 3,
+        "2020": 4,
+        "2021": 6,
+        "2022": 3,
+        "2023": 1,
+        "2025": 1
+      },
+      "representative_papers": [
+        {
+          "title": "国有股参股家族企业可抑制股价崩盘风险吗？",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.06.001",
+          "document_id": "SCJB202106001"
+        },
+        {
+          "title": "股价崩盘风险与分析师关注：“趋之若鹜”还是“退避三舍”",
+          "year": 2019,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.05.005",
+          "document_id": "SCJB201905005"
+        },
+        {
+          "title": "行业锦标赛激励与公司股价崩盘风险",
+          "year": 2020,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.05.006",
+          "document_id": "SCJB202005006"
+        },
+        {
+          "title": "大数据税收征管降低了股价崩盘风险吗？——基于“金税三期”的准自然实验",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.02.007",
+          "document_id": "SCJB202102007"
+        },
+        {
+          "title": "学者型CEO与上市公司股价崩盘风险",
+          "year": 2021,
+          "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.04.009",
+          "document_id": "SCJB202104009"
+        }
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "document_id": "SCJB201701003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201701004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201701006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201701008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201701009",
+      "group": 5
+    },
+    {
+      "document_id": "SCJB201702006",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB201702010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201703005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201703007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201703012",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB201704002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201704003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201704004",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB201704006",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB201704007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201704009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201704010",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB201705004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201705007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201705008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201705009",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB201706004",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB201706008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201801005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201801007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201801012",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201802003",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB201802004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201802013",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201803003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201803005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201803006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201803010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201804004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201805007",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB201805008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201806002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201806003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201806004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201806005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201806008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201806010",
+      "group": 5
+    },
+    {
+      "document_id": "SCJB201806011",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201901003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201901006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201901007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201901008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201901009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201902002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201902004",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB201902005",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB201903003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201903005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201903007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201903009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201904007",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB201904008",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB201904011",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB201904013",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB201905003",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB201905004",
+      "group": 5
+    },
+    {
+      "document_id": "SCJB201905005",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB201905010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201906002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201906007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB201906008",
+      "group": 5
+    },
+    {
+      "document_id": "SCJB201906009",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB202001002",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202001003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202001006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202001007",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202002004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202002005",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202002006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202002009",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202002010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202003002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202003004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202003005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202003010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202004001",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202004005",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202004006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202004007",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202004008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202004010",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202005006",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202005007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202005008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202006001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202006003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202006004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202006005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202006006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202006007",
+      "group": 5
+    },
+    {
+      "document_id": "SCJB202006008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202101003",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202101005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202101006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202101007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202101008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202101010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202102002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202102003",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202102005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202102006",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202102007",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202103001",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202103002",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202103005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202103006",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202103009",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202103010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202104001",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202104002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202104003",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202104004",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202104005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202104006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202104009",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202104010",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202105002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202105003",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202105004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202105005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202105006",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202106001",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202106002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202106007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202106008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202106009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202201001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202201002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202201003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202201004",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202201005",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202201006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202201007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202201008",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202202002",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202202003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202202004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202202005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202202006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202203003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202203004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202203005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202203006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202203007",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202203009",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202203010",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202204002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202204005",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202204006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202204008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202204009",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202204010",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202205002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202205003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202205004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202205006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202205009",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202206002",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202206006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202206007",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202206008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202206010",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202301001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202301002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202301005",
+      "group": 5
+    },
+    {
+      "document_id": "SCJB202301007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202301008",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202301010",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202302006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202302007",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202302008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202302009",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202303001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202303002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202303005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202303006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202303007",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202303010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202304001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202304004",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202304007",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202305001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202305002",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202305005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202305007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202306003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202306004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202306005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202306007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202306008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202306009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202401001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202401002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202401004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202401005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202401008",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202401010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202402004",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202402006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202402007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202403001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202403002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202403003",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202403004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202403008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202403009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202404002",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202404003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202404004",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202404005",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202404008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202404009",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202405001",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202405002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202405003",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202405004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202405005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202405007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202405008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202405010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202406001",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202406003",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB202406004",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202406005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202406008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202406010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202501005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202501006",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202501007",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202501008",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202501010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202502003",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202502004",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202502006",
+      "group": 8
+    },
+    {
+      "document_id": "SCJB202502008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202503001",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202503002",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202503003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202503004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202503006",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202503007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202503008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202503009",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202504003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202504005",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB202504007",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202504008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202505004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202505006",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202506001",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202506004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202506009",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202601001",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202601003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202601005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202601007",
+      "group": 7
+    },
+    {
+      "document_id": "SCJB202601010",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202602001",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202602002",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202602003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202602004",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202602005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202602008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202602009",
+      "group": 3
+    },
+    {
+      "document_id": "SCJB202602010",
+      "group": 6
+    },
+    {
+      "document_id": "SCJB202603001",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202603002",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202604003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202604005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202604006",
+      "group": 4
+    },
+    {
+      "document_id": "SCJB202604010",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202605002",
+      "group": 2
+    },
+    {
+      "document_id": "SCJB202605003",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202605005",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202605008",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202605009",
+      "group": 1
+    },
+    {
+      "document_id": "SCJB202605010",
+      "group": 1
+    }
+  ]
+}

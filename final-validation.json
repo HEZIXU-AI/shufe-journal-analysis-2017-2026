@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "submission_rows": 594,
+  "submission_columns": [
+    "论文标题",
+    "被引用量",
+    "引用的参考文献量"
+  ],
+  "full_records": 613,
+  "directory_records": 621,
+  "reference_verified": 482,
+  "reference_missing": 112,
+  "cited_missing": 29,
+  "download_missing": 0,
+  "year_counts": {
+    "2017": 61,
+    "2018": 62,
+    "2019": 61,
+    "2020": 59,
+    "2021": 60,
+    "2022": 60,
+    "2023": 60,
+    "2024": 60,
+    "2025": 60,
+    "2026": 51
+  },
+  "csv_sha256": "7ff9326a7908902f2695b5557d0dee2d11f84321f49bcbfc5309b987624f3789"
+}

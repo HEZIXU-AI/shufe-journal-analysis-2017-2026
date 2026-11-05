@@ -1,0 +1,901 @@
+{
+  "records": [
+    {
+      "id": "SCJB202306001",
+      "title": "习近平经济思想体系的逻辑结构初探",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.06.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/5ac8fa8d-46ec-439a-a358-ea08d9425bf6/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB20261029001",
+      "title": "从“地理通道”到“绿色动脉”：西部陆海新通道的绿色贸易效应阐释",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/urlid/31.1817.C.20261029.1447.002",
+      "publisher_source_url": null,
+      "reason": "已核查实际官网目录但未匹配，完整文献表未取得；不等于0"
+    },
+    {
+      "id": "SCJB201702008",
+      "title": "宏观调控新常态中的法治考量",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.02.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170413000020/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201702009",
+      "title": "政府与社会资本合作(PPP)模式利益协调机制研究",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170413000021/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201702010",
+      "title": "仲裁程序争议司法审查制度比较与借鉴",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170413000022/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201703002",
+      "title": "全球变化与人类健康的内在关系",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.03.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170615000043/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201703003",
+      "title": "人类健康与经济发展的辩证逻辑",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.03.002",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170615000044/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201703011",
+      "title": "论附加福利课税的程序法路径——以《税收征管法修正案》引入自然人纳税识别号制度为重点",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170615000052/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201703012",
+      "title": "论我国信用违约互换(CDS)风险的法律防范——基于信息披露规则完善的视角",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.03.011",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170615000053/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201704009",
+      "title": "“一带一路”战略下完善我国外国法查明机制的法律思考",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.04.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170815000039/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201704010",
+      "title": "P2P网贷平台异化经营的法律规制",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.04.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170815000040/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201704011",
+      "title": "民法典编纂视野下民事主体与商事主体的衔接",
+      "year": 2017,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2017.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A170815000041/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201801010",
+      "title": "经济实验如何才会更有效——兼对杜宁华先生批判的回应之一",
+      "year": 2018,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2018.01.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A00ce63855-f722-4b36-8baa-84bb5158f905/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201803009",
+      "title": "社会协调的行为机理及其实验证据——兼对杜宁华先生批判的回应之二",
+      "year": 2018,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2018.03.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0shcjdxxb-20-1-zhufuqiang-1/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201904006",
+      "title": "中国特色社会主义市场经济体制改革的深化探索研究",
+      "year": 2019,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.04.004",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/36e41c5e-dc26-4a7f-b1a6-858f66efad7d/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB201904012",
+      "title": "论“中国话语”的资本界限",
+      "year": 2019,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2019.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/4e45a0c2-5146-4e6f-a2c7-867901724b54/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202002008",
+      "title": "“金融之美”的经济哲学批判",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.02.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/b1704f11-6cd3-4a39-b5a6-65c004d6a560/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202002009",
+      "title": "数字经济下数据共享理路的反思与再造——以数据类型化考察为视角",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/1df41950-660b-4a1e-bea5-ae7b4f6b9c46/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202003009",
+      "title": "困境与出路：财产保险合同中的保险利益判断——兼评《保险法司法解释四》及其征求意见稿相关规定",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.03.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/238964c6-d036-498c-a99e-5528e16d07a6/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202004004",
+      "title": "长三角文化产业高质量一体化发展：战略使命、优势资源、实施重点",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.04.003",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/a454d155-a850-43cb-a01e-1ad598b1e22c/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202004011",
+      "title": "大数据领域滥用市场支配地位的反垄断规制——基于路径检视的逻辑展开",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/a74a04e7-4af6-4526-9a67-f43cbb15523b/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202005009",
+      "title": "个人所得税纳税义务之规避及其规制",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/9871bde0-cc93-4079-b5a2-53534c470c74/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202005010",
+      "title": "新开发银行内部治理规制研究",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.05.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/6dd22468-d988-4bb3-a19e-6ab9d741f6d8/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202006009",
+      "title": "法治体系的构成及其时代价值",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.06.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A16821778-e525-486a-820d-fe381fc53b6f/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202006010",
+      "title": "货币法偿性的法理逻辑与制度反思——兼论我国法定数字货币的法偿性认定",
+      "year": 2020,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2020.06.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/0e0af9df-e442-4b20-b0cf-58f59aada58f/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202101009",
+      "title": "美国经济制裁执法管辖“非美国人”之批判分析",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.01.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/b39cc947-34ce-44b5-9e20-6f9c25a51517/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202102010",
+      "title": "我国金融广告监管制度的优化——基于行为金融学和欧盟经验的考察",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/0a88e921-8386-4738-9ee6-f2e0938dbec2/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202103009",
+      "title": "数字时代共同市场支配地位的认定标准",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.03.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/a7cc75f3-3da0-4001-8800-c01cc55516d2/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202103010",
+      "title": "注册制下科创板退市法律规制模式转型——以投资者妥适保护为核心",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0dc2f5fd2-bc61-4775-ab2c-4eac45049b0a/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202104002",
+      "title": "平台经济转售价格维持反垄断原则的适用",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.04.002",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0e447fb6c-7e7f-4094-9845-c05b91548b6f/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202104010",
+      "title": "上市公司董事、高管个人事务的法律规制-团体法、行为法及信息法的三维进路",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/fbd6d90f-1612-4494-a6f3-785456b0b43c/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202105009",
+      "title": "平台从业者收入相关权益的法律保护",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A8f5d0d56-e074-4f3f-90cf-f19dcc0f2dd6/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202106010",
+      "title": "数据驱动型并购中竞争损害的新面向及救济理念革新",
+      "year": 2021,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2021.06.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A4149f0dd-4d55-4d9f-b9f2-708312ee2772/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202201001",
+      "title": "新时代共同富裕实现与民营经济发展协同研究",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.01.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/02c041f7-8278-4af0-8a6b-fe3932c4316c/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202201009",
+      "title": "论我国互联网平台“二选一”行为法律属性的再厘定",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.01.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/a596dc91-646a-48be-b0eb-32c32d26fe07/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202201010",
+      "title": "信息利益视野下电商平台消费者保护责任立法的完善",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.01.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0e5fefeef-52bb-4099-8f43-559b407d4d60/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202202009",
+      "title": "“一带一路”倡议下的知识产权国际协调法律制度",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0shcjdxxb-2022-2-122/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202202010",
+      "title": "鼓励中小企业适用投资者-国家争端解决机制的改革与中国因应",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0shcjdxxb-2022-2-137/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202203002",
+      "title": "发展多频道网络传播新业态-文化产业视域下的基本特点、优势集群和产业链创新",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.03.002",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/33f9109e-83e0-4a2e-af1c-625ad2ee941d/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202203009",
+      "title": "数字经济领域数据要素优化配置的法治进路——以推进平台互联互通为抓手",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.03.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/c712aedd-d750-4090-a573-c53c5af9c5ac/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202203010",
+      "title": "数字服务税：理论阐释、国际实践与中国进路",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/1e32730e-7bdc-4905-aaa7-5c0ce125f631/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202204001",
+      "title": "大时代下宏观经济学面临的挑战与变革",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.04.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/e4be5241-4a2b-4d92-8c4b-34447c607003/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202204002",
+      "title": "经济内循环下如何推行消费政策——兼论根基于效用原则的供给侧管理",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.04.002",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/c247d931-5469-47f4-bf90-8e7e014ca87f/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202204006",
+      "title": "节制资本与共同富裕：逻辑、难点及路径",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.04.006",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0bfe410d8-76e8-4b42-9828-5690b9278acc/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202205008",
+      "title": "论电子商务经营者税收征管的困境及其立法完善——兼论《税收征管法》的修订",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.05.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/e2536660-4a4e-4dd6-88aa-3e3df5a1972c/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202205009",
+      "title": "数字经济背景下的人工智能国际法规制",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0e674c95e-695c-4d46-9491-6295e02ebf45/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202205010",
+      "title": "云计算环境下商业秘密保密措施的合理性认定",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.05.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/a4ee95c5-3ee9-41f0-b849-612ba43c84c0/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202206008",
+      "title": "论大数据作为生产要素的资本化及其双重影响",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.06.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/19c2643a-80ff-4f08-914a-30dc3344a680/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202206009",
+      "title": "论法定数字货币与现代货币政策框架的优化",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.06.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/6a64b553-df52-44a1-9987-bec717f8979d/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202206010",
+      "title": "数字经济下营业利润征税权分配规则改革：中国问题及其应对",
+      "year": 2022,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2022.06.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/865347d0-84af-4d9e-afa2-bc7875bad231/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202301008",
+      "title": "数字经济时代区域税收失衡的矫正：基于税权纵向配置视角",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.01.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/712e7183-67be-410a-a357-a36bd521e001/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202301009",
+      "title": "数字经济领域扼杀性并购的反垄断规制",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.01.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/d5a276aa-b84f-44eb-b82c-52d46e56339f/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202301010",
+      "title": "系统重要性金融机构有限责任制度的修正：基本理论和制度建构",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.01.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/d5867f1f-e55e-42fa-a5ee-8358baf65d69/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202302004",
+      "title": "数字人民币离线支付的法律规制",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.02.004",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/a2c0b82a-c231-4a50-8862-1608501ba05a/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202302009",
+      "title": "国际贸易法视域下的人工智能规制——以WTO规则为视角",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/5c3fc2b2-df6a-4e0e-954b-23da189e6289/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202302010",
+      "title": "娱乐消费税的理论证成与制度设计",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A23e03f1d-b712-4423-8647-746e831c7d7a/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202303006",
+      "title": "论我国竞争中性规制的主体构造——兼论新《反垄断法》增补条款之完善",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.03.006",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A58fbb352-82eb-4610-98f4-151eeeee91f9/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202303009",
+      "title": "从投资保护迈向投资便利化：投资争端解决机制的“再平衡”及中国因应",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.03.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A00e827d0-088d-4111-b3e9-caee518cb1da/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202303010",
+      "title": "金融机构环境信息披露类型体系的优化：欧盟经验与中国方案",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/f683074e-6cd4-488d-86a5-c4792e361585/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202304009",
+      "title": "常态化监管下平台互联互通的实施路向",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.04.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/3d3c1395-7e08-499d-b7a0-c9a9d365ffc5/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202304010",
+      "title": "论我国金融商品交易增值税规则的完善",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/003a39b2-06a3-4b90-a42f-184245aa8d7f/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202305004",
+      "title": "新营商环境纳税评估与税制优化的中国路径",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.05.004",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/f4d54032-947d-4a7f-95eb-f13db1446648/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202305009",
+      "title": "“吃改革饭,走开放路”的内在逻辑",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0ddfc6137-bef4-4f33-9465-528833f16465/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202306009",
+      "title": "资产的数字化革命和革命的数字资产法",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.06.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0d7f5c84f-96e7-421f-be1d-41781f28f604/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202306010",
+      "title": "外国人在华就业法律规制的完善",
+      "year": 2023,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2023.06.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A181c08c4-6240-4e0d-9f5c-2226fe19313c/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202401003",
+      "title": "双重身份属性下双边平台“二选一”行为的反垄断规制",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.01.003",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/09e57c4a-0da5-40be-b548-b15bc7f154ef/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202401008",
+      "title": "论数字经济背景下的全球税收正义及中国应对",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.01.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/d52fa9c7-202a-40f9-8a04-4539dd27f2bc/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202402009",
+      "title": "人工智能在商事仲裁中的应用：价值、困境与路径",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/b8a591ae-1b11-453a-b93f-67f602c308cc/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202402010",
+      "title": "预测性信息披露背景下的安全港规则：适用障碍与制度完善",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/8de6cd42-8070-4f56-bf55-7d46b7f4a4ee/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202403009",
+      "title": "促进高质量发展的区域经济法治论纲",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.03.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0kTgVM9nn-Cbj5-rSgM-yko2-gSPwiTTURtzN/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202403010",
+      "title": "欧盟供应链安全规则的合法性认定——以中国与欧盟各国双边投资协定为切入点",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0Cwetlhzy-yBaz-5bET-Mv9Z-yFJUULo5ZOCy/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202404001",
+      "title": "“两个文明”协调发展的思想探赜",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.04.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0gGZgXdns-eoK4-TzHF-m9mW-B2UgtN1Zq7wB/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202404009",
+      "title": "ESG的演变、逻辑及其实现",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.04.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0VfJGaIC1-CoRp-THiY-iKWp-8ZtApbJFMCMl/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202404010",
+      "title": "上海自贸试验区对接DEPA跨境数据流动规则：动因、差距及完善路径",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0HXJ6LuUb-8eT2-MjHS-Aj9y-ktSUz5rhM3iJ/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202405001",
+      "title": "形成同数字新质生产力相适应的生产关系——基于生产力二重性的理论视角",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.05.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0Vk7zketV-AiGf-CB8K-bHKp-hqaoep0zbSn0/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202405009",
+      "title": "数字经济中黑暗模式的法律规制：基本原理、域外方案与本土路径",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/v0egHuVr-W1ly-7zCM-1Orz-Rp6QuvA2XDdh/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202405010",
+      "title": "反垄断法与公司法视阈下公司“控制权”认定的冲突与调和",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.05.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0T26cK6S7-QlLj-2Rwq-i6EI-x8W2gtigXtrL/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202406001",
+      "title": "论资本作为新质生产力要素的理论基础与现实意义",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.06.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0Ezo0eRrk-Z5vA-awwC-uff3-3EmvD3YYNeEn/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202406009",
+      "title": "生成式AI下超大金融服务平台滥用算法权力的风险规制",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.06.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0BxGOn8SS-FPlQ-vFTB-PPU8-slgvCt9WLI3L/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202406010",
+      "title": "金融监管规章在民商事裁判中的适用研究",
+      "year": 2024,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2024.06.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0ghpSlhfM-P5bY-avhU-ZXAe-23H0ajUbqEMQ/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202501008",
+      "title": "马克思主义政治经济学视阈下劳动力再生产与健康保障",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.01.008",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/fgFAkH9u-AKFj-xgA9-Jo9u-HmZzK5LHbZOg/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202501009",
+      "title": "数字资产的本质属性及其物权法定位",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.01.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0mko3m1Ko-mI0B-ioic-DY9L-1vq2fiAL2ycz/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202501010",
+      "title": "消费端碳普惠数据的治理逻辑与规范构造",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.01.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0uo3hEkqS-2YVW-VBXt-3OdQ-IDre6kAvpmXB/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202502001",
+      "title": "重新认识改革开放的“时代”特征——党的两个“三中全会”划时代的关系新论",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.02.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0yvmKi7Ec-8hAA-MtWS-xSBs-R5pPkCWApls9/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202502009",
+      "title": "论企业数据交易的所得税法适用",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A61VHTDmu-xZIp-qFEv-7CLD-33vJn017qkda/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202502010",
+      "title": "我国反垄断领域单一经济实体原则适用研究:法律实践和规则构造",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0yi3s6vKi-KuF8-p8dy-Ku6o-3rw6qlXooaFx/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202503001",
+      "title": "论人工智能时代新质生产力对当代资本主义生产关系的消解与重塑",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.03.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/hQCYUaWU-Zcfm-iQ6S-Ofdo-MByN8pEZUxj1/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202503009",
+      "title": "人工智能通用大模型市场竞争治理架构探设",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.03.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A44ZqGvTn-NSmc-czB6-ykWL-dS9B7QK8HNoq/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202503010",
+      "title": "ESG信息披露制度的法权构造论",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/NJ32inma-aGWh-swLy-n2zQ-l8E9lpp0rjBZ/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202504001",
+      "title": "积累的社会结构学派的劳动过程与劳动控制理论：渊源、演进与启示",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.04.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0q4iaBN6s-rcD1-asix-W8lD-qexRJb05Mzl6/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202504002",
+      "title": "从里根经济学看特朗普2.0的全球影响",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.04.002",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0lNGWAqUA-PMcF-lAoF-MxTn-QSUHUsXuZM1D/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202504009",
+      "title": "金融数字化对金融规制目标的挑战与应对",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.04.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0wfsHgnb7-dhhe-zdu8-ImCU-7FpAPHjqqAwg/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202504010",
+      "title": "电商平台经营者违反安全保障义务的“相应责任”解构——以比例连带责任为中心",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0hjzh0Cd-0hmZ-Njpy-UH0w-pglZ8fFLD7US/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202505009",
+      "title": "金融控股集团数据共享的制度障碍及其优化",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0rjr4Euc4-7TUc-osWT-xHGr-F0fYbBNjx8hb/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202505010",
+      "title": "具身智能体数据隐私风险的合作治理",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.05.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/pYl77YJj-9n1O-rXpz-vDTY-dF2Lx9a4ZL2R/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202506006",
+      "title": "数字资本对权利保护的挑战与应对",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.06.006",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0Ik8diUrO-X1m6-YSEv-DChd-QwoGhDwGng0E/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202506007",
+      "title": "人口高质量发展的形成逻辑、现实挑战与实践进路",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.06.007",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0kff2hyrj-F8Ts-1xSV-ft8Z-7GCEaxNdDGT4/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202506009",
+      "title": "新质生产力背景下公共数据治理的法治检视与路径跃升",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.06.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0uQ0ZNuNY-Esib-3wCY-33kR-wAYLOWWwKY5Y/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202506010",
+      "title": "我国绿色主权债券制度的困境及其完善",
+      "year": 2025,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2025.06.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0e5XMtfvK-fgDl-Ranz-1UBt-ElXmRXLQndB4/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202601001",
+      "title": "推动西部地区数字经济发展的价值意义、现实困境与实现路径——基于区域协调发展的视角",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.01.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A8NwYp2Sd-9xLg-rHmF-eV3Q-5zJ1bT6Kc4Ao/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202601002",
+      "title": "数字文创产业集群建设的内在动能、多样形态和升级路径",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.01.002",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0FvX5wM8Q-3jKp-yRcN-tH7B-1sL9dZ4Gr6Ui/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202601009",
+      "title": "董事对第三人责任的法理进阶与制度因应",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.01.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0MwZ9oX1T-4uUm-yIeP-gR5A-0tH3dB8Fq6Vc/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202601010",
+      "title": "正视难题：上市公司审计委员会监督职责的制度完善",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.01.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0Nx0pY2U-5vVn-zJfQ-hS6B-1uI4eC9Gr7Wd/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202602009",
+      "title": "非遗数据“权利分置”之理论证成与规范构建研究",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.02.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0IdZXbhhj-wW68-sMnV-gEdu-Z13rmKHdE7wn/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202602010",
+      "title": "公司法下的董事二元义务厘清与责任限制",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.02.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0GME0w0xJ-mP1F-0kf5-FbK6-zqDMpw7yS8Uh/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202603001",
+      "title": "数字资本积累的流通偏向与价值创造阻滞——兼论平台经济“内卷式”竞争的政治经济学本质",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.03.001",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0GQxCR95B-5Ftq-vjOC-olll-1JGB6eybjVKD/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202603010",
+      "title": "法偿性存款：论数字人民币法律地位的再造",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.03.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/cASfydjr-YBsI-wpnH-KNVz-vma9HzFWbjRd/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202604003",
+      "title": "新就业形态健康发展视域下平台劳动控制的政治经济学分析——以网约车“养号”现象为例",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.04.003",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/Xwi87q35-SJfl-e6a4-LpxD-CNLid7EW5RXb/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202604009",
+      "title": "数据交易所的双重属性及规则建构",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.04.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0mMy5OdmB-W7Jx-JsVa-ELoO-nrfcf8Slu5Nj/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202604010",
+      "title": "企业数据权独立成权的逻辑证成与制度设计",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.04.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0tPzW6GAB-FPvq-VHB9-iKRy-jNOrTCkTrEku/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202605009",
+      "title": "论政府补贴公平竞争审查的集体豁免",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.05.009",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0MAGQEJd0-mfpx-YoJT-01li-IEXjtZsR6Rmm/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    },
+    {
+      "id": "SCJB202605010",
+      "title": "董事勤勉义务的规范展开与司法适用",
+      "year": 2026,
+      "source_url": "https://link.cnki.net/doi/10.16538/j.cnki.jsufe.2026.05.010",
+      "publisher_source_url": "https://qks.sufe.edu.cn/J/CDXB/Article/Details/A0RmiANY77-0Eci-aE5v-5n4w-M3O4SQiawd2J/CN",
+      "reason": "官网详情未显示可验证的完整参考文献表；不等于0"
+    }
+  ],
+  "note": "这些数值尚未可靠取得。采集范围核查完成不代表所有字段完整；提交CSV保留空白。"
+}

@@ -1,0 +1,575 @@
+{
+  "at": "2026-11-05T11:09:12.990Z",
+  "metadata_records": 613,
+  "target_candidates": 613,
+  "assembled_records": 613,
+  "list_statistics_observed": 613,
+  "detail_snapshots_preserved": 68,
+  "comparison_records": 62,
+  "equal_counts": 62,
+  "differences": [],
+  "missing_cited": 44,
+  "missing_downloads": 0,
+  "verified_complete_reference_counts": 482,
+  "note": "详情头部/已核实详情读数优先；其余采用列表明确显示的被引统计。列表空白不是0。完整参考文献计数来自官网，知网节点另存。",
+  "comparisons": [
+    {
+      "id": "SCJB201701002",
+      "title": "当代中国法治权威的三大来源与从严治党",
+      "detail_count": 4,
+      "list_count": 4,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:36:25.893Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701003",
+      "title": "中国省级财政透明度评估(2016)",
+      "detail_count": 52,
+      "list_count": 52,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:36:55.120Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701004",
+      "title": "区域政策与新生代农民工工会维权实效——兼论教育、企业规模和社会服务对工会参与满意度的影响",
+      "detail_count": 10,
+      "list_count": 10,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:37:16.473Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701005",
+      "title": "房价上涨、住房财产差距与动态流动性",
+      "detail_count": 14,
+      "list_count": 14,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:37:34.051Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701006",
+      "title": "公共基础教育配置效率:资源优化还是资源浪费",
+      "detail_count": 75,
+      "list_count": 75,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:38:03.033Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701007",
+      "title": "企业创新投入的原动力:CEO个人品质还是早年经历——基于CEO过度自信品质与早年饥荒经历的对比",
+      "detail_count": 163,
+      "list_count": 163,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:38:21.997Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701008",
+      "title": "代理成本、制度环境变迁与企业慈善捐赠——来自中国制造业的经验证据",
+      "detail_count": 65,
+      "list_count": 65,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:38:46.864Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701009",
+      "title": "亚洲地区“一带一路”建设与企业投资环境分析",
+      "detail_count": 92,
+      "list_count": 92,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:39:11.642Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701010",
+      "title": "我国公共企业税收优惠制度的重构",
+      "detail_count": 15,
+      "list_count": 15,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:39:32.377Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201701011",
+      "title": "空虚所有权交易与大陆法系的以房养老模式",
+      "detail_count": 175,
+      "list_count": 175,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:39:50.378Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201702001",
+      "title": "马克思生产方式理论视野下的我国城乡一体化",
+      "detail_count": 15,
+      "list_count": 15,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:40:20.261Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201702002",
+      "title": "收入分配与政府税收:“国富”的一种解释",
+      "detail_count": 6,
+      "list_count": 6,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:40:40.620Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201702003",
+      "title": "我国公共文化服务政府供给效率的测度与检验",
+      "detail_count": 125,
+      "list_count": 125,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:40:56.810Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201702004",
+      "title": "“新农合”:农民获得幸福感了吗?",
+      "detail_count": 92,
+      "list_count": 92,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:41:23.002Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201702005",
+      "title": "比特币价格泡沫:证据、原因与启示",
+      "detail_count": 120,
+      "list_count": 120,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:41:48.735Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201702006",
+      "title": "中国艺术品市场投资真的是高收益、低风险吗?",
+      "detail_count": 16,
+      "list_count": 16,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:42:07.551Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201702007",
+      "title": "社会资本、创业环境与农民涉农创业绩效",
+      "detail_count": 162,
+      "list_count": 162,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:42:31.837Z",
+      "list_captured_at": "2026-11-05T09:51:54.834Z"
+    },
+    {
+      "id": "SCJB201702008",
+      "title": "宏观调控新常态中的法治考量",
+      "detail_count": 13,
+      "list_count": 13,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:42:49.013Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201702009",
+      "title": "政府与社会资本合作(PPP)模式利益协调机制研究",
+      "detail_count": 148,
+      "list_count": 148,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:43:10.777Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201702010",
+      "title": "仲裁程序争议司法审查制度比较与借鉴",
+      "detail_count": 22,
+      "list_count": 22,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:43:30.286Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703002",
+      "title": "全球变化与人类健康的内在关系",
+      "detail_count": 4,
+      "list_count": 4,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:43:55.574Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703003",
+      "title": "人类健康与经济发展的辩证逻辑",
+      "detail_count": 12,
+      "list_count": 12,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:54:03.367Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703004",
+      "title": "健康投资与健康经济增长的双重效应",
+      "detail_count": 56,
+      "list_count": 56,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:54:28.871Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703005",
+      "title": "全球价值链背景下中间品进口对企业全要素生产率的影响",
+      "detail_count": 50,
+      "list_count": 50,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:54:50.111Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703006",
+      "title": "出口集约、扩展增长与工业环境生产效率的悖论再解释——基于加工贸易的门槛效应",
+      "detail_count": 3,
+      "list_count": 3,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:55:16.001Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703007",
+      "title": "文化差异与商品贸易:基于“一带一路”沿线国家的考察",
+      "detail_count": 70,
+      "list_count": 70,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:55:31.328Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703008",
+      "title": "农地福利保障如何影响农地转出——基于制度保障与社区保障调节效应的分析",
+      "detail_count": 43,
+      "list_count": 43,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:55:52.894Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703009",
+      "title": "土地市场扭曲与中国居民消费不足",
+      "detail_count": 28,
+      "list_count": 28,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:56:08.315Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703010",
+      "title": "从一元主义到多元主义:现代经济学学术态度的转向",
+      "detail_count": 3,
+      "list_count": 3,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:56:32.058Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703011",
+      "title": "论附加福利课税的程序法路径——以《税收征管法修正案》引入自然人纳税识别号制度为重点",
+      "detail_count": 10,
+      "list_count": 10,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:56:51.294Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201703012",
+      "title": "论我国信用违约互换(CDS)风险的法律防范——基于信息披露规则完善的视角",
+      "detail_count": 43,
+      "list_count": 43,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:57:15.288Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704002",
+      "title": "文化效益冲突的意义及效果——兼论文化价值与文化效益的关系",
+      "detail_count": 17,
+      "list_count": 17,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:57:58.808Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704003",
+      "title": "文化政策的价值取向——从文化产业、创意产业到文化经济",
+      "detail_count": 37,
+      "list_count": 37,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:58:26.753Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704004",
+      "title": "我国自贸区驱动经济增长的实证模拟——基于对经济增长“创新驱动”的思考",
+      "detail_count": 34,
+      "list_count": 34,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:58:45.627Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704005",
+      "title": "负面清单管理模式对服务业国际竞争力的影响研究",
+      "detail_count": 22,
+      "list_count": 22,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:59:03.675Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704006",
+      "title": "银行业不当行为风险、行为成本与金融稳定——全球金融行为监管和风险治理的焦点领域",
+      "detail_count": 27,
+      "list_count": 27,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:59:20.639Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704007",
+      "title": "慈善捐赠是真善还是伪善:基于企业违规的视角",
+      "detail_count": 118,
+      "list_count": 118,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T13:59:38.801Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704008",
+      "title": "财政支出、空间溢出效应与服务业增长——基于中心城市数据的空间杜宾模型分析",
+      "detail_count": 47,
+      "list_count": 47,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:00:07.177Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704009",
+      "title": "“一带一路”战略下完善我国外国法查明机制的法律思考",
+      "detail_count": 45,
+      "list_count": 45,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:00:36.938Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704010",
+      "title": "P2P网贷平台异化经营的法律规制",
+      "detail_count": 50,
+      "list_count": 50,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:01:05.951Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201704011",
+      "title": "民法典编纂视野下民事主体与商事主体的衔接",
+      "detail_count": 17,
+      "list_count": 17,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:01:32.994Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705002",
+      "title": "工业地价上涨、地方政府供地行为与产业转移",
+      "detail_count": 72,
+      "list_count": 72,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:02:07.433Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705003",
+      "title": "进口服务贸易、知识溢出与后发国家技术追赶——基于中国和印度的比较分析",
+      "detail_count": 26,
+      "list_count": 26,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:02:31.803Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705004",
+      "title": "高管薪酬与环境绩效——基于上市公司外部治理环境的视角",
+      "detail_count": 140,
+      "list_count": 140,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:02:58.150Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705005",
+      "title": "非营利组织捐赠者财务公平感知对捐赠意愿的影响研究",
+      "detail_count": 33,
+      "list_count": 33,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:03:21.096Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705006",
+      "title": "“全面二孩”政策对城镇职工医保统筹基金的影响:改善抑或恶化",
+      "detail_count": 30,
+      "list_count": 30,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:03:39.306Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705007",
+      "title": "社会融合如何影响流动人口的居住选择——基于2014年全国流动人口监测数据的研究",
+      "detail_count": 32,
+      "list_count": 32,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:04:05.680Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705008",
+      "title": "中国地方政府债务透明度评估:2014-2015",
+      "detail_count": 75,
+      "list_count": 75,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:04:27.465Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705009",
+      "title": "混合所有制、公私合作制及市场准入法的改革论纲",
+      "detail_count": 25,
+      "list_count": 25,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:04:46.861Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705010",
+      "title": "欧盟银行“自救”机制中债权保障的失衡与应对",
+      "detail_count": 16,
+      "list_count": 16,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:05:12.518Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201705011",
+      "title": "当代中国经济治理视阈中的经济学和伦理学:疏离与对话",
+      "detail_count": 6,
+      "list_count": 6,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:05:34.467Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706002",
+      "title": "人口老龄化对技术创新的影响机制分析——基于DFA方法的创新评价和动态面板模型",
+      "detail_count": 116,
+      "list_count": 116,
+      "equal": true,
+      "detail_captured_at": "2026-11-04",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706003",
+      "title": "退缩还是创新:受年龄歧视影响的员工行为解析",
+      "detail_count": 42,
+      "list_count": 42,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:06:18.425Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706004",
+      "title": "产能利用率、企业性质与经营效益——基于钢铁企业的实证分析",
+      "detail_count": 30,
+      "list_count": 30,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:06:44.768Z",
+      "list_captured_at": "2026-11-05T09:30:34.010Z"
+    },
+    {
+      "id": "SCJB201706005",
+      "title": "休闲方式你选对了吗?——基于主观幸福感的研究",
+      "detail_count": 36,
+      "list_count": 36,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:07:10.674Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706006",
+      "title": "土地违法行为是一种“堤内损失堤外补”的策略吗?——基于审批约束与效率损失的研究视角",
+      "detail_count": 14,
+      "list_count": 14,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:07:27.708Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706007",
+      "title": "证券监管者的决策信念比市场投资者更强么?",
+      "detail_count": 8,
+      "list_count": 8,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T14:07:47.157Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706008",
+      "title": "加快发展我国文化装备产业",
+      "detail_count": 10,
+      "list_count": 10,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T15:25:21.563Z",
+      "list_captured_at": "2026-11-05T09:50:32.602Z"
+    },
+    {
+      "id": "SCJB201706009",
+      "title": "“需求”逻辑视角下的我国公共文化服务研究——基于消费者均衡模型以及蛛网模型的理论视角",
+      "detail_count": 41,
+      "list_count": 41,
+      "equal": true,
+      "detail_captured_at": "2026-11-04T15:32:14.770Z",
+      "list_captured_at": "2026-11-05T09:30:34.010Z"
+    },
+    {
+      "id": "SCJB201906002",
+      "title": "当代资本主义经济体系发展新趋势",
+      "detail_count": 22,
+      "list_count": 22,
+      "equal": true,
+      "detail_captured_at": "2026-11-04",
+      "list_captured_at": "2026-11-05T09:23:18.328Z"
+    },
+    {
+      "id": "SCJB202106001",
+      "title": "国有股参股家族企业可抑制股价崩盘风险吗？",
+      "detail_count": 153,
+      "list_count": 153,
+      "equal": true,
+      "detail_captured_at": "2026-11-04",
+      "list_captured_at": "2026-11-05T09:14:20.788Z"
+    },
+    {
+      "id": "SCJB202306001",
+      "title": "习近平经济思想体系的逻辑结构初探",
+      "detail_count": 22,
+      "list_count": 22,
+      "equal": true,
+      "detail_captured_at": "2026-11-04",
+      "list_captured_at": "2026-11-05T09:06:57.570Z"
+    }
+  ]
+}
